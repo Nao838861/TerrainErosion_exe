@@ -1,3 +1,5 @@
+流体による地形浸食のシミュレーションです。
+浸食と堆積によって、川の流れが刻々と変化する様子が観察できます。
 ![image](https://user-images.githubusercontent.com/7016217/90295885-0d393d00-dec5-11ea-8a78-dfcfac1ae7e9.png)
 
 ## 動画
