@@ -4,8 +4,10 @@
 
 ## 動画
 [![](https://img.youtube.com/vi/q1AtvGwQal0/0.jpg)](https://www.youtube.com/watch?v=q1AtvGwQal0)
-
 https://www.youtube.com/watch?v=q1AtvGwQal0
+
+[![](https://img.youtube.com/vi/ZAIPPGDXiGk/0.jpg)](https://www.youtube.com/watch?v=ZAIPPGDXiGk)
+https://www.youtube.com/watch?v=ZAIPPGDXiGk
 
 ## 操作方法
 左クリック          : 地形上昇  
