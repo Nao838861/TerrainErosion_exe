@@ -17,12 +17,14 @@ https://www.youtube.com/watch?v=q1AtvGwQal0
 マウスホイール   : カーソル範囲の増減
 
 
+
   
 WASD                : カメラ移動
 
 QE                     : カメラ上昇/下降
 
 ALT+マウス移動 : カメラ回転
+
 
 
 
