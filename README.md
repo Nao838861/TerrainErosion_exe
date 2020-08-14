@@ -8,7 +8,7 @@
 https://www.youtube.com/watch?v=q1AtvGwQal0
 
 ## 操作方法
-左クリック          : 地形上昇
+左クリック          : 地形上昇　　
 
 右クリック          : 地形下降
 
